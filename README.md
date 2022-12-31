@@ -1,8 +1,10 @@
 # unsplash-app
 
+An application prepared for searching photos.
+
 ## About for api
 
-Image search app in React Js. Using [Unsplash](https://api.unsplash.com/) api.
+Used [Unsplash](https://api.unsplash.com/) api for API.
 
 ```sh
 https://api.unsplash.com/search/photos?page=1&query=
