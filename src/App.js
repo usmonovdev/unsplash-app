@@ -48,7 +48,7 @@ const App = () => {
               delayTime="300"
             />
             <div className='info'>
-              <img src={image.user.profile_image.small}/>
+              <img src={image.user.profile_image.small} alt={image.user.alt_description}/>
               <div>
                 <p className="username">{image.user.name}</p>
               </div>
